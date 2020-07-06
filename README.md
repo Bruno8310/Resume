@@ -1,9 +1,21 @@
-# JS-Function
+# JS-Object
 
-This exercise consists of several small exercises, each with its own readme, which you can check out.
+1. Program and observe the following requirements:  
+  - Create a null object and set its variable name as user; 
+  - Add a name attribute and set its value as John; 
+  - Add a surname attribute and set its value as Mike; 
+  - Modify the value of name attribute as Peter; 
+  - Delete name attribute of user. 
+ 
+2. Program and observe the following requirements: calculate how many pieces of fruit there are in the fruit object and the output should be 50. 
 
-## requirement
-- fork this repository. 
-- Complete the job according to the readme requirements
-- Submit the job to github and submit the github address back to the system
-
+```
+var fruit = {
+apple: 20,
+pear: 20,
+peach: 10
+};
+// write your code here...
+```
+## Requirements
+Create a js document and complete the above requirements.
